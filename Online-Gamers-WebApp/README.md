@@ -1,13 +1,4 @@
-## Online-Gamers-Platform-v1
-### Goal
-Help players to find each other.
-
-### TODO
-1. Chat <br>
-2. More details about categories. <br>
-3. Improve player following system <br>
-
-### Screenshots
+ Screenshots
 ![](screenshots/ogpSC1.png)
 ![](screenshots/ogpSC3.png)
 ![](screenshots/ogpSC4.png)
