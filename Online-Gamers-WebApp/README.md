@@ -14,7 +14,4 @@ Help players to find each other.
 ![](screenshots/ogpSC5.png)
 ![](screenshots/ogpSC6.png)
 ![](screenshots/ogpSC7.png)
-![](screenshots/ogpSC8.png)
-![](screenshots/ogpSC9.png)
-![](screenshots/ogpSC10.png)
-![](screenshots/ogpSC12.png)
+
